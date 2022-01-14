@@ -1,0 +1,12 @@
+blessed==1.17.12
+colorama==0.4.4
+commonmark==0.9.1
+flake8==4.0.1
+mccabe==0.6.1
+objexplore==1.5.7
+pycodestyle==2.8.0
+pyflakes==2.4.0
+Pygments==2.11.2
+rich==10.9.0
+six==1.16.0
+wcwidth==0.2.5
